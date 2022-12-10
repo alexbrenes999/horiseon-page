@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 ##Screenshot of the webpage
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![image](https://user-images.githubusercontent.com/116224156/206829275-cc6bbd1e-a681-48ef-9e60-48ea022ed924.png)
 
 ##Deployable Link
 Link: https://alexbrenes999.github.io/horiseon-page/
