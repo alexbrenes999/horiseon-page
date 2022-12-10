@@ -1,2 +1,2 @@
-# horiseon-page
-Horiseon Page with shortened CSS/HTML to make it more legible to fellow coders.
+# challenge-1-horiseon
+This repo will be used to submit my first assignment in the UCF bootcamp.
