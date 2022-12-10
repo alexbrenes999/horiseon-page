@@ -27,9 +27,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-##Screenshot of the webpage
+## Screenshot of the webpage
 
 ![image](https://user-images.githubusercontent.com/116224156/206829275-cc6bbd1e-a681-48ef-9e60-48ea022ed924.png)
 
-##Deployable Link
+## Deployable Link
 Link: https://alexbrenes999.github.io/horiseon-page/
